@@ -1,7 +1,1 @@
-
-ls
-mkdir test 
-cd test
-pwd
-ls
-
+abdul
