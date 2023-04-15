@@ -1,0 +1,7 @@
+
+ls
+mkdir test 
+cd test
+pwd
+ls
+
